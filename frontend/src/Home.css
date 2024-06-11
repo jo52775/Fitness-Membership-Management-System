@@ -1,0 +1,45 @@
+.nav{
+    position:relative;
+    bottom:100px;
+    right:150px;
+}
+
+#welcomeHome{
+    position:relative;
+    left:160px;
+    font-size: 50px;
+    color: aquamarine;
+}
+
+.link{
+    font-size: 20px;
+    position:relative;
+    left:20px;
+}
+
+.about{
+    position:relative;
+    bottom:50px;
+    background-color: white;
+    border:5px solid blueviolet;
+    padding: 20px;
+}
+
+#aboutParagraph{
+    text-align: left;
+    color: black;
+}
+
+#aboutHeader{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: black;
+}
+
+#aboutList{
+    color:blueviolet;
+}
+
+#thank_you{
+    color:black
+}
+

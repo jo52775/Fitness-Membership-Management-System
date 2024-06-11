@@ -1,0 +1,13 @@
+#planDisplay{
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: aquamarine;
+}
+
+.submitWorkouts{
+    position: relative;
+    left:500px;
+}
+
+#updateLabel{
+    color: aquamarine;
+}

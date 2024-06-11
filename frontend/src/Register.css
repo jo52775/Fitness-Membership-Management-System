@@ -1,0 +1,13 @@
+#registerHeader{
+    font-size: 50px;
+}
+
+.fieldDiv{
+    padding:7px;
+}
+
+#registerSubmit{
+    background-color: aquamarine;
+    position: relative;
+    top: 30px;
+}

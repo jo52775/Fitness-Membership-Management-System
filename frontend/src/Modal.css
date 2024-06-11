@@ -1,0 +1,51 @@
+.modalFormat{
+    width:500px;
+    height:300px;
+    padding: 30px;
+    background-color:aquamarine;
+    position:relative;
+    bottom:300px;
+    margin:auto;
+    border-radius:15px;
+}
+
+.resetLabel{
+    color:black;
+}
+
+.oldPass{
+    position:relative;
+}
+
+.newPass{
+    position:relative;
+    top:40px;
+}
+
+.verifyNewPass{
+    position:relative;
+    top:80px;
+}
+
+#passwordResetButton{
+    background-color: black;
+    color: aquamarine;
+    position:relative;
+    top:120px;
+    left:20px;
+    cursor: pointer;
+}
+
+#modalBackButton{
+    font-size: smaller;
+    width:min-content;
+    height: min-content;
+    background-color: black;
+    color:aquamarine;
+    border-radius: 50%;
+    position:relative;
+    bottom:27px;
+    left:250px;
+    cursor: pointer;
+}
+
