@@ -1,6 +1,6 @@
 This website allows for users to create a fitness membership account and access membership services. Website features include: 
 * User authentication via account registration and login
-* A workout plan customization
+* Workout plan customization 
 * A review system that allows users to both post and read reviews about the website.
 * An account details page with a password reset feature
 
